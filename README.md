@@ -1,5 +1,7 @@
 <h1 align="center">StrawberryMilkshake?!</h1>
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&width=500&lines=strawberrymilkshake12;Fullstack+Developer;System+Architect" />
+</h1>
 ###
 
 <div align="center">
