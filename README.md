@@ -1,39 +1,35 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&width=600&lines=%3E+strawberrymilkshake12;%3E+Fullstack+Developer;%3E+Architect+of+Systems" />
-</h1>
+<h1 align="center">hah?</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-9B59B6?style=flat-square&logo=statuspage&logoColor=9B59B6&color=0d0d0d" />
-  <img src="https://img.shields.io/badge/FOCUS-FULLSTACK-9B59B6?style=flat-square&logo=codeforces&logoColor=9B59B6&color=0d0d0d" />
-  <img src="https://img.shields.io/badge/ARCHITECTURE-SCALABLE-9B59B6?style=flat-square&logo=databricks&logoColor=9B59B6&color=0d0d0d" />
-</p>
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-<p align="center">
-  <img src="https://c.tenor.com/Mnct3fmGikYAAAAd/tenor.gif" width="400" />
-</p>
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.kuemeranti.store/images/sJkwoBp.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.kuemeranti.store/images/NmsAKVc.svg">
+  <img alt="pacman contribution graph" src="https://cdn.kuemeranti.store/images/LP6klvW.svg">
+</picture>
 
-## **About Me**
-
-```yaml
-name: strawberrymilkshake12
-title: Fullstack Developer
-location: Earth
-experience: 5+ Years
-architecture: Clean Code & Scalable Systems
-
-focus:
-  - Frontend Engineering
-  - Backend Architecture
-  - System Design
-  - Cloud Infrastructure
-  - Performance Optimization
-
-interests:
-  - Anime & Manga
-  - Gaming
-  - Tech Innovations
-  - Open Source Contributions
+###
