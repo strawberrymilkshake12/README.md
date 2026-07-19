@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=45&pause=1000&color=F75BE8&width=435&height=100&lines=Hello+i'm+StrawberryMilkshake;Nice+to+meet+you;Need+Something%3F+Contact+me+bro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=45&pause=1000&color=F75BE8&width=435&height=100&lines=Hello;i'm+StrawberryMilkshake;Nice+to+meet+you;Contact+Me+if+u+need+me" />
 </h1>
 
 ###
